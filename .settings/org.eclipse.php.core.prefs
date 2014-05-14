@@ -1,0 +1,6 @@
+#Sat May 10 00:18:16 MSK 2014
+eclipse.preferences.version=1
+include_path=5;com.zend.php.phpunit.CONTAINER\u00055;org.zend.php.framework.CONTAINER\u00055;org.zend.php.framework.v2.CONTAINER\u00050;/yiicms
+org.eclipse.php.core.phpForamtterIndentationSize=1
+org.eclipse.php.core.phpForamtterUseTabs=true
+use_asp_tags_as_php=false
